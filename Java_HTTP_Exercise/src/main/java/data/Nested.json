@@ -1,0 +1,16 @@
+{
+  "id": 2,
+  "group_name": "group1",
+  "student_list": [
+    {
+      "name": "Danny",
+      "classroom": "1-2",
+      "hobby": ["golf", "tennis", "squash"]
+    },
+    {
+      "name": "Tony",
+      "classroom": "2-5",
+      "hobby": ["football", "baseball", "basketball"]
+    }
+  ]
+}
